@@ -1,0 +1,25 @@
+h1 {
+    color: red;
+}
+
+h2 {
+    color: blue;
+}
+
+.steps {
+    color: green;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+.ingredients {
+    font-style: italic;
+}
+
+li {
+    font-size: 19px;
+    font-family: "Times New Roman", sans-serif;
+}
